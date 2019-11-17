@@ -6,5 +6,9 @@ public class SolrTest {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
+
+        StringBuffer stringBuffer = new StringBuffer();
+        stringBuffer.append("1231");
+        System.out.println("stringBuffer = " + stringBuffer);
     }
 }
