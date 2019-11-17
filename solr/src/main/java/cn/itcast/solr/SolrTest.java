@@ -9,6 +9,16 @@ public class SolrTest {
             System.out.println(arr[i]);
         }
 
+
         System.out.println("第一次打印");
+
+        ArrayList<String> list = new ArrayList<String>();
+        list.add("1231");
+        list.add("45532");
+        System.out.println("list = " + list);
+
+
+        System.out.println("胡俊飞");
+
     }
 }
