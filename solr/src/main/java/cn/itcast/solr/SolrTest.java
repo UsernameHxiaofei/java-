@@ -17,5 +17,8 @@ public class SolrTest {
         list.add("1231");
         list.add("45532");
         System.out.println("list = " + list);
+
+
+        System.out.println(" = 123123" );
     }
 }
