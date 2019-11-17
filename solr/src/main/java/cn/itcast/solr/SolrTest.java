@@ -7,8 +7,8 @@ public class SolrTest {
             System.out.println(arr[i]);
         }
 
-        StringBuffer stringBuffer = new StringBuffer();
-        stringBuffer.append("1231");
-        System.out.println("stringBuffer = " + stringBuffer);
+        System.out.println("我修改了一个bug");
+
+
     }
 }
