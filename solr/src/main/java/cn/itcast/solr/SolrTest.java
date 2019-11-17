@@ -9,13 +9,12 @@ public class SolrTest {
             System.out.println(arr[i]);
         }
 
-        StringBuffer stringBuffer = new StringBuffer();
-        stringBuffer.append("1231");
-        System.out.println("stringBuffer = " + stringBuffer);
-
         ArrayList<String> list = new ArrayList<String>();
         list.add("1231");
         list.add("45532");
         System.out.println("list = " + list);
+
+
+        System.out.println("胡俊飞");
     }
 }
